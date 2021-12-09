@@ -8,10 +8,10 @@ For each page that lists repositories, individual url was used to request html o
 
 Aforementioned attributes of interest were parsed using `re` and in-built string methods.
 
-<center><img src='./fig/output-b4-filtering.png' width=80%></center>
+<center><img src='./fig/output-b4-filtering.jpg' width=80%></center>
 
 The following two filters were applied to further narrow down the list.
 1. Nubmer of Issues > 0
 2. Last Updated Date is no earlier than `2021-09-01`
 
-<center><img src='./fig/output.png' width=80%></center>
+<center><img src='./fig/output.jpg' width=80%></center>
